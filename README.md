@@ -3,7 +3,7 @@ Das Projekt "usart_dma_cmsis_stm32f407ve" bietet einen Beispielcode basierend au
 - jlink v 9
 - eclipse c/c++
 	
-  Beispielkode aus main.c
+- Beispielkode aus main.c
   
   /**/
  
@@ -15,12 +15,12 @@ Das Projekt "usart_dma_cmsis_stm32f407ve" bietet einen Beispielcode basierend au
 	
 	UsartDmaRx( testBuffRx, 10 ) ;						                /* 10 Bytes werden ueber usart dma empfangen */
 	
-	for( uint32_t i = 0x00 ; i < 100000 ; i ++ ) asm( "NOP\n\t" ) ; /* delay */
+	for( uint32_t i = 0x00 ; i < 100000 ; i ++ ) asm( "NOP\n\t" ) ; 			/* delay */
   
   }
   
-  Hier ( PA8 -> USART1_CK, ) PA9 -> USART1_TX, PA10 -> USART1_RX
+- Hier ( PA8 -> USART1_CK, ) PA9 -> USART1_TX, PA10 -> USART1_RX
   
-  Bei Fragen, fragen =)
+- Bei Fragen, fragen =)
   
   WhatsApp: +49 1577 6970034
