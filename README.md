@@ -4,8 +4,10 @@ Das Projekt "usart_dma_cmsis_stm32f407ve" bietet einen Beispielcode basierend au
 - eclipse c/c++
 	
   Beispielkode aus main.c
+  
   /**/
-  while( 1 ) {
+ 
+ while( 1 ) {
   	
 	UsartDmaTx( testBuffTx, 10 ) ;						                /* 10 Bytes werden ueber usart dma gesendet */
 	
