@@ -1,4 +1,4 @@
-# usart_dma_cmsis_stm32f407ve
+# usart dma stm32f407ve cmsis
 Das Projekt "usart_dma_cmsis_stm32f407ve" bietet einen Beispielcode basierend auf "Blackboard STM32F407" in Eclipse IDE.
 - jlink v 9
 - eclipse c/c++
@@ -23,4 +23,3 @@ Das Projekt "usart_dma_cmsis_stm32f407ve" bietet einen Beispielcode basierend au
   
 - Bei Fragen, fragen =)
   
-  WhatsApp: +49 1577 6970034
